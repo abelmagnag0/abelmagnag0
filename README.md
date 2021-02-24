@@ -8,7 +8,7 @@ Sou desenvolvedor web, apaixonado por computadores desde que me entendo por gent
 
 * Nunca dormir sabendo o mesmo que na noite anterior
 * Contribuir com a comunidade
-* Virar FullStack
+* Melhorar minhas habilidades como FullStack
 * Trabalhar ao lado de devs que tenham muito a compartilhar
 
 **Techs**
