@@ -28,8 +28,8 @@ Sou desenvolvedor web, apaixonado por computadores desde que me entendo por gent
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abelmagnag0&show_icons=true&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abelmagnag0&show_icons=true&theme=dracula&count_private=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abelmagnag0&show_icons=true&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abelmagnag0&show_icons=true&theme=dracula&count_private=true" />
 </a>
