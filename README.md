@@ -1,9 +1,3 @@
-# Olá Visitante!
-
-### Sou o Abel e seja bem-vindo(a) ao meu perfil 
-
-Sou desenvolvedor web, apaixonado por computadores desde que me entendo por gente. Sempre por aqui codando :) Meu foco nos estudos atualmente é na web e mobile, mas também com um olho ou dois no back-end.
-
 **Techs**
 <p align="left">
 <code><img src="https://user-images.githubusercontent.com/51785898/91357834-3eb8df00-e7c8-11ea-9936-0ce666ac2a11.png" alt="JS" width="40" height="40"/></code>&nbsp;
@@ -18,7 +12,6 @@ Sou desenvolvedor web, apaixonado por computadores desde que me entendo por gent
 <p align="left">
 <a href="https://www.linkedin.com/in/abel-magnago1/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Abel Magnago" height="40" width="40" /></a> &nbsp;&nbsp;
 </p>
-
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=abelmagnag0&show_icons=true&theme=dracula&count_private=true" />
