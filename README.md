@@ -1,21 +1,40 @@
+# 👋 Hi, I'm Abel
+
+**Full-Stack Developer | Front-End Specialist**
+
+I’m passionate about building high-quality, scalable, and visually appealing digital products.  
+With solid experience in **React, Node.js, and TypeScript**.
+
+**Contact**
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/abel-magnago1/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
+  </a> &nbsp;&nbsp;
+  <a href="mailto:abel.magnago@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail" />
+  </a>
+</p>
+
 **Techs**
-<p align="left">
-<code><img src="https://user-images.githubusercontent.com/51785898/91357834-3eb8df00-e7c8-11ea-9936-0ce666ac2a11.png" alt="JS" width="40" height="40"/></code>&nbsp;
-<code><img src="https://user-images.githubusercontent.com/51785898/91357843-411b3900-e7c8-11ea-8161-3e8191a6cde2.png" alt="React.js" width="60" height="40" /></code>&nbsp;
-<code><img src="https://user-images.githubusercontent.com/51785898/91357845-424c6600-e7c8-11ea-9457-53c06cf3b6ed.png" alt="React-Native" width="60" height="40" /></code>&nbsp;
-<code><img src="https://user-images.githubusercontent.com/51785898/91357850-44162980-e7c8-11ea-966c-a7ebaba08ba3.png" alt="Node.js" width="40" height="40"/></code>&nbsp;
-<code><img src="https://user-images.githubusercontent.com/51785898/91358353-0cf44800-e7c9-11ea-9a54-0a988aa2837c.png" alt="Github" width="40" height="40"/></code>&nbsp;
-<code><img src="https://user-images.githubusercontent.com/51785898/91358426-3319e800-e7c9-11ea-9df0-b5a207cecfce.png" alt="Typescript" width="40" height="40"/></code>&nbsp;
-</p>
 
-**Contato**
 <p align="left">
-<a href="https://www.linkedin.com/in/abel-magnago1/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Abel Magnago" height="40" width="40" /></a> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" /> &nbsp;
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="React.js" /> &nbsp;
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" /> &nbsp;
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" /> &nbsp;
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript" />
 </p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abelmagnag0&show_icons=true&theme=dracula&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abelmagnag0&layout=compact&theme=dracula&count_private=true" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abelmagnag0&show_icons=true&theme=dracula&count_private=true" />
-</a>
+
+---
+
+<p align="center">
+  <img src="https://miro.medium.com/v2/1*54_--49lwKngQUw0bNPijQ.gif"  width="300" />
+</p>
+
+
+
