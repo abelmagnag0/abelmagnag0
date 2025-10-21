@@ -29,7 +29,7 @@
 
 ---
 
-## **Formação Acadêmica**
+### **Formação Acadêmica**
 
 **Universidade Unigranrio**<br/>
 *Análise e Desenvolvimento de Sistemas*<br/>
