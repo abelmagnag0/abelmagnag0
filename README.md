@@ -1,4 +1,4 @@
-## **Desenvolvimento Full-Stack & Mobile**
+### **Desenvolvimento Full-Stack & Mobile**
 
 * **Linguagens:** JavaScript, TypeScript, Python, PHP, Java.
 * **Frameworks & Bibliotecas:** **React**, **Node.js**, **Express**, **EJS**, **Styled-Components**, **Firebase**.
@@ -8,7 +8,7 @@
 
 ---
 
-## **Liderança Técnica & Mentoria**
+### **Liderança Técnica & Mentoria**
 
 * **Gestão de Projetos:** acompanhamento de backlog, organização de sprints e priorização de demandas em ambiente **Agile/Scrum**.
 * **Mentoria:** formação e apoio técnico a **estagiários e desenvolvedores júnior**, com foco em boas práticas e programação em pares.
