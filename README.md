@@ -1,36 +1,47 @@
-# 👋 Hi, I'm Abel
+## **Desenvolvimento Full-Stack & Mobile**
 
-**Full-Stack Developer | Front-End Specialist**
-
-I’m passionate about building high-quality, scalable, and visually appealing digital products.  
-With solid experience in **React, Node.js, and TypeScript**.
-
-**Contact**
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/abel-magnago1/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
-  </a> &nbsp;&nbsp;
-  <a href="mailto:abel.magnago@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail" />
-  </a>
-</p>
-
-**Techs**
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" /> &nbsp;
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="React.js" /> &nbsp;
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" /> &nbsp;
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" /> &nbsp;
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript" />
-</p>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abelmagnag0&layout=compact&theme=dracula&count_private=true" />
-</a>
+* **Linguagens:** JavaScript, TypeScript, Python, PHP, Java.
+* **Frameworks & Bibliotecas:** **React**, **Node.js**, **Express**, **EJS**, **Styled-Components**, **Firebase**.
+* **CI/CD:** implementação e manutenção de pipelines de entrega contínua, com foco em qualidade e estabilidade.
+* **Containerização:** utilização de **Docker** para padronização e isolamento de ambientes.
+* **Cloud & Serviços:** experiência com **AWS** e **Serverless**, incluindo otimização de ambientes e gestão de recursos.
 
 ---
+
+## **Liderança Técnica & Mentoria**
+
+* **Gestão de Projetos:** acompanhamento de backlog, organização de sprints e priorização de demandas em ambiente **Agile/Scrum**.
+* **Mentoria:** formação e apoio técnico a **estagiários e desenvolvedores júnior**, com foco em boas práticas e programação em pares.
+* **Consultoria Técnica:** suporte a equipes jurídicas e de auditoria para alinhar soluções tecnológicas a objetivos de negócio.
+* **Code Review & Padrões:** definição de boas práticas de versionamento, arquitetura e integração contínua.
+
+---
+
+### **Sistemas, Automação & Inteligência Artificial**
+
+* **APIs:** desenvolvimento e integração, incluindo **autenticação via Active Directory (AD)**.
+* **Automação de Processos:** criação de scripts em **Node.js**, **Python** e **PHP** para otimização de fluxos internos.
+* **Monitoramento & Auditoria:** implantação de sistemas de **auditoria**, **monitoramento** e **controle interno**.
+* **Plataformas de LMS:** implantação de sistemas de **educação**, **gestão interna** e **contorle de alunos**.
+* **Inteligência Artificial:** desenvolvimento de **chatbots inteligentes**, **MCPs (Multi-Agent Control Platforms)** e **sistemas baseados em agentes autônomos**.
+* **Agentes de IA:** implementação de **fluxos automatizados com agentes**, integração com **LLMs (Large Language Models)** e **APIs de IA**, orquestração de agentes especializados para processos complexos.
+* **Qualidade & Testes:** aplicação de testes funcionais e integração com **Storybook** para garantia de qualidade visual e de componentes.
+
+---
+
+## **Formação Acadêmica**
+
+**Universidade Unigranrio**
+*Análise e Desenvolvimento de Sistemas*
+📅 Agosto de 2021 – Dezembro de 2025
+
+---
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abelmagnag0&layout=compact&theme=dracula&count_private=true" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://miro.medium.com/v2/1*54_--49lwKngQUw0bNPijQ.gif"  width="300" />
