@@ -31,8 +31,8 @@
 
 ## **Formação Acadêmica**
 
-**Universidade Unigranrio**
-*Análise e Desenvolvimento de Sistemas*
+**Universidade Unigranrio**<br/>
+*Análise e Desenvolvimento de Sistemas*<br/>
 📅 Agosto de 2021 – Dezembro de 2025
 
 ---
