@@ -1,51 +1,39 @@
-### **Desenvolvimento Full-Stack & Mobile**
+# Abel Magnago
 
-* **Linguagens:** JavaScript, TypeScript, Python, PHP, Java.
-* **Frameworks & Bibliotecas:** **React**, **Node.js**, **Express**, **EJS**, **Styled-Components**, **Firebase**.
-* **CI/CD:** implementação e manutenção de pipelines de entrega contínua, com foco em qualidade e estabilidade.
-* **Containerização:** utilização de **Docker** para padronização e isolamento de ambientes.
-* **Cloud & Serviços:** experiência com **AWS** e **Serverless**, incluindo otimização de ambientes e gestão de recursos.
+Software engineer in Rio de Janeiro. Since 2021 I've built web systems in Node.js, TypeScript, React and AWS, from the database to the screen.
 
----
+Today I work at the Rio de Janeiro State Comptroller's Office, on the internal systems auditors and civil servants use every day. I also built the retrieval and guardrail layer of an AI assistant that answers questions over the agency's documents.
 
-### **Liderança Técnica & Mentoria**
+## Where I've worked
 
-* **Gestão de Projetos:** acompanhamento de backlog, organização de sprints e priorização de demandas em ambiente **Agile/Scrum**.
-* **Mentoria:** formação e apoio técnico a **estagiários e desenvolvedores júnior**, com foco em boas práticas e programação em pares.
-* **Consultoria Técnica:** suporte a equipes jurídicas e de auditoria para alinhar soluções tecnológicas a objetivos de negócio.
-* **Code Review & Padrões:** definição de boas práticas de versionamento, arquitetura e integração contínua.
+**[Controladoria-Geral do Estado do Rio de Janeiro](https://cge.rj.gov.br)**: internal audit and control systems for the State of Rio de Janeiro, in production since 2023.
 
----
+**[Extreme Digital Solutions](https://www.extremedigital.com.br)**: full stack consulting for legal and audit clients.
 
-### **Sistemas, Automação & Inteligência Artificial**
+**[Cursology](https://cursology.com.br)**: a subscription courses platform: checkout, catalogue, player, certificates and the app around it.
 
-* **APIs:** desenvolvimento e integração, incluindo **autenticação via Active Directory (AD)**.
-* **Automação de Processos:** criação de scripts em **Node.js**, **Python** e **PHP** para otimização de fluxos internos.
-* **Monitoramento & Auditoria:** implantação de sistemas de **auditoria**, **monitoramento** e **controle interno**.
-* **Plataformas de LMS:** implantação de sistemas de **educação**, **gestão interna** e **contorle de alunos**.
-* **Inteligência Artificial:** desenvolvimento de **chatbots inteligentes**, **MCPs (Multi-Agent Control Platforms)** e **sistemas baseados em agentes autônomos**.
-* **Agentes de IA:** implementação de **fluxos automatizados com agentes**, integração com **LLMs (Large Language Models)** e **APIs de IA**, orquestração de agentes especializados para processos complexos.
-* **Qualidade & Testes:** aplicação de testes funcionais e integração com **Storybook** para garantia de qualidade visual e de componentes.
+**[ProRaiz Sistema de Ensino](https://www.linkedin.com/company/proraizsistemadeensino)**: front end of a learning platform with more than 30,000 active students.
 
----
+**[Prodígio Educação](https://www.linkedin.com/company/prodigioeducacao)**: applications for students, teachers and school managers. I started there as a QA intern in 2021.
 
-### **Formação Acadêmica**
+## Code
 
-**Universidade Unigranrio**<br/>
-*Análise e Desenvolvimento de Sistemas*<br/>
-📅 Agosto de 2021 – Dezembro de 2025
+**[portfolio](https://github.com/abelmagnag0/portfolio)**: the code behind [abel.dev.br](https://abel.dev.br). Next.js static export, five Lambda functions, CloudFront, DynamoDB, Cognito with mandatory TOTP.
 
----
+## Working with AI
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abelmagnag0&layout=compact&theme=dracula&count_private=true" />
-  </a>
-</p>
+Since 2025 most of my work has had AI in the loop, mostly through the terminal: Claude Code, Copilot, OpenCode, Qwen, DeepSeek, MiniMax. I read every diff and rewrite what needs it, but the first version comes much faster.
 
-<p align="center">
-  <img src="https://miro.medium.com/v2/1*54_--49lwKngQUw0bNPijQ.gif"  width="300" />
-</p>
+## Stack
 
+TypeScript · Node.js · React · Next.js · Python · PHP · PostgreSQL · MongoDB · DynamoDB · AWS (Lambda, API Gateway, S3, CloudFront, Cognito, CloudFormation) · Docker · Qdrant · LLM APIs · MCP
 
+## Education
 
+CST in Systems Analysis and Development, Unigranrio.
+
+Certificate in AI and Digital Transformation in Government, Oxford Saïd.
+
+## Contact
+
+[abel.dev.br](https://abel.dev.br) · [LinkedIn](https://www.linkedin.com/in/abel-magnago1) · abel.magnago@gmail.com
